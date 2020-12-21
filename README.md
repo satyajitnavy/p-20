@@ -1,2 +1,2 @@
-# p-20
-by satyajit
+# p5.play-boilerplate
+Boiler plate for p5.play
